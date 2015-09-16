@@ -1,23 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:38.805047
+#+DATE: 2015-08-30 20:44:39.220682
 #+TITLE: 佛說大乘戒經
 #+PROPERTY: CBETA_ID T24n1497
 #+PROPERTY: ID KR6k0119
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1497
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6k0119_T_000-1104a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0119_T_001-1104a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1497¶
-
- 《佛說大乘戒經》¶
+No. 1497¶
+《佛說大乘戒經》¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
-傳法大師臣施護奉　詔譯¶
+西天譯經三藏¶
+傳法大師施護奉　詔譯¶
 
 如是我聞：
 
@@ -40,7 +39,7 @@ No.1497¶
 成就一切法寶，譬如賢瓶，圓滿堅固，能盛一
 <pb:KR6k0119_T_001-1104b>¶
 切珍寶。如是破損，珍寶散失；若破律儀，則捨¶
-一切善法。先曾犯戒，而後心欲求涅盤，如¶
+一切善法。先曾犯戒，而後心欲求涅槃，如¶
 去眼、耳，對鏡照面，何所堪能！」
 
 佛言：「苾芻！女人¶
