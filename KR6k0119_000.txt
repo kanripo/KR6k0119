@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘戒經
+#+DATE: 2015-08-30 20:44:38.993963
+#+PROPERTY: JUAN 0
